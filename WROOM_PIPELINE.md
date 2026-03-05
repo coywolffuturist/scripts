@@ -56,15 +56,15 @@ All documents are partner-facing. Every document is a discrete, complete deliver
 
 | Component | Description |
 |-----------|-------------|
-| P — Problem | The specific external challenge |
-| R — Reason | The Role/Archetype & Relatability |
-| I — Insecurity | The inner inadequacy or psychological wound |
-| E — Emotion | Behavioral response when Insecurity is triggered |
-| P — Pivot | The ego death moment |
-| I — Intention | Specific goal to solve the Problem |
-| O — Obstacle | External force blocking the Intention |
-| T — Tactic | How they try to overcome the Obstacle |
-| S — Sacrifice | The cost of the transformation |
+| P — Protagonist | Who they are |
+| R — Reason | The Role/Archetype & Relatability (Everyman, Everyman shifted ___) |
+| I — Insecurity | The inner inadequacy or psychological wound that unconsciously drives them |
+| E — Emotion | How they feel about it (angry, sad, stressed, defeatist, etc.) |
+| P — Problem | The specific external challenge in this moment that relates to their insecurity |
+| I — Intention | Their plan to solve the Problem |
+| O — Obstacle | Why they can't just fix it — what blocks them |
+| T — Tactics | The plan they initially choose and how they improvise to overcome |
+| S — Surprise | The synthesized solution between them and the world that wins the day |
 
 #### Antagonist Additions (after PRIEPIOTS table)
 
