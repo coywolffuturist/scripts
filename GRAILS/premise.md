@@ -88,21 +88,21 @@ The film moves between all three. The collision of their value systems is the en
 
 ---
 
-### Hye-Jin — The Empath / The Obvious Suspect
+### Hye-Jin — The Empath
 **Name meaning:** "Bright/wise" + "precious/rare." An expert hidden inside a pretty package.
 
-**Role:** Jae-Wook's cousin (mom's side). Was dating Jae-Wook's step-brother before his conviction — a case where Elizabeth served as expert witness. One of two doumis planted inside Togg's retinue after a Koreatown karaoke party.
+**Role:** Jae-Wook's cousin (mom's side). Was dating Kevin (Jae-Wook's step-brother) before his conviction — a case where Elizabeth served as expert witness. One of two doumis planted inside Togg's retinue after a Koreatown karaoke party.
 
 **The Vibe:** An "Asian Baby Girl" — rave scene, electronic music, OnlyFans — hiding in the most visible possible place. Togg sees another forgettable pretty face. She's clocking his every move with the precision of a natural empath.
 
 **The Dynamic:** The softy of the crew. When she gets too close to Togg and starts feeling for him, Deja pulls her back: *"Some people you have to let life fix."*
 
-**The Misdirect:** Zach, when he gets suspicious, assumes Hye-Jin is Jae-Wook's inside woman. She is not. Deja is.
+**Zach's perception:** He assumes she's Jae-Wook's girlfriend at first. He comes to understand she's part of the operation over time.
 
 ---
 
-### Deja — The Strategist / The One Who Was Right There the Whole Time
-**Role:** The other doumi. The actual inside woman. Jae-Wook's partner. The one nobody suspects.
+### Deja — The Strategist
+**Role:** The other doumi. Jae-Wook's partner. The one nobody suspects.
 
 **The Vibe:** A Black woman from Inglewood who was putting herself through USC on a business degree before AI started closing those doors. She can run circles around everyone in the room. Nobody in the room knows it.
 
