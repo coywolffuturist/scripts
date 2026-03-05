@@ -1,4 +1,4 @@
-# Deja — The Strategist / The One Who Was Right There the Whole Time
+# Deja — The Strategist
 
 ---
 

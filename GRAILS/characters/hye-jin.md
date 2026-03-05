@@ -1,4 +1,4 @@
-# Hye-Jin — The Empath / The Obvious Suspect
+# Hye-Jin — The Empath
 
 ---
 
