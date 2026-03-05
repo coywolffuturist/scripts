@@ -46,34 +46,39 @@ STRUCTURE CHECK:
 
 ---
 
-[SEQUENCE 1 : BEAT 2 — SAVE THE CAT]
+[SEQUENCE 1 : BEAT 2 — THE SANCTUARY]
 
 THE CONNECTOR: BUT
 
-LOCATION: INT./EXT. ZACH'S SHOP — DAY
+LOCATION: INT./EXT. ZZ HERITAGE HOUSE — DAY
 
-CHARACTERS: Zach, neighborhood kid (or regular customer)
+CHARACTERS: Zach, grandfather, father, ten-year-old son
 
-PLOT GOAL: Make the audience root for Zach before the stakes escalate
-CHARACTER GOAL: Do the right thing even when it costs him
+PLOT GOAL: Establish Zach's world, his code, and make the audience root for him before the stakes arrive
+CHARACTER GOAL: Do the job right — honest appraisal, no inflation, no false hope
 
-THE ACTION: TBD — a moment that reveals Zach's fundamental decency. He gives something away, fixes something for free, or protects something that doesn't belong to him. It costs him something small. He doesn't hesitate.
+THE ACTION:
+1.1 THE AUDIT — The shop smells of acid-free plastic, aged cardboard, and the sweet chalky ghost of 40-year-old bubblegum dust. Zach, wearing a sun-faded 1984 Durham Bulls tee, sits across from three generations: a grandfather in a windbreaker, a father with tired eyes, a ten-year-old son. Between them: shoeboxes — the grandfather's hoard. Zach moves with surgical reverence. He points to the highlights: the Bill Ripken "Fuck Face" error card, the Randy Johnson Marlboro ad. The father leans in, hopeful. Zach's voice is gentle but honest: "They're 5.5s. Maybe 6 on a good day. Total value for the lot? Four, five hundred dollars." The hope leaves the father's face as he looks at his son.
 
-THE OPPOSITION: The rent notice still on the counter
+1.2 THE RESTORED KING — "Wait," Zach says. He reaches under the counter and pulls out a slabbed card: the 1989 Upper Deck Ken Griffey Jr. Rookie. Crisp, centered, glowing. "Your dad brought this to me six months ago. He asked me to see what I could do." Zach explains: he cleaned the surface, pressed the fibers. "In this slab, it's a 9. But—" he turns the slab over to show the holographic "Restored" log on the back. "I logged it in the database. I won't pass off restoration as factory-original. It won't fetch the $10,000 a Natural 10 would. But it's yours. And it's perfect." The father's eyes mist as he pulls the grandfather into a silent hug. The ten-year-old watches, wide-eyed — he's never seen his gruff dad cry over cardboard before. He understands for the first time that this isn't about money. It's about time captured.
+
+1.3 THE SANCTUARY IN THE GRAVEYARD — Zach walks the family to the door. "Take care of that Griffey." As they exit, the camera pulls back: ZZ Heritage House — warm, amber-lit — is an island in an empty strip mall. Left: a RadioShack sign hanging by a single wire over a gutted storefront. Right: a Spirit Halloween banner peeling off a defunct department store. The parking lot is cracked asphalt and weeds. Zach stands in the doorway, a solitary monk guarding a temple of relics while the rest of the world has already moved into the digital clouds.
+
+THE OPPOSITION: The rent notice on the counter. The graveyard outside.
 
 THE ZEN PIVOT:
-Hero: Toward Connection — he gives before he takes
-Antagonist: Absent
+Hero: Toward Connection — his code costs him (the Griffey logged as Restored, not factory-original); he doesn't hesitate
+Antagonist: Absent — but the strip mall is his exhaust
 Sub-Protagonist: Absent
 
-STAKES UPDATE: We now know who Zach is. We're rooting for him.
+STAKES UPDATE: We know who Zach is. We're rooting for him. The world is already moving on without him.
 
-ENTERTAINMENT FACTOR: Meaning
+ENTERTAINMENT FACTOR: Novelty (the memorabilia world), Meaning (a man whose integrity is costing him everything)
 
 STRUCTURE CHECK:
-- Beginning: Someone needs something from Zach
-- Middle: It will cost him
-- End: He does it anyway
+- Beginning: Three generations, the shoeboxes, the hope
+- Middle: The honest appraisal — hope deflated; then the Griffey reveal
+- End: The family leaves moved. Zach alone in the doorway. The graveyard behind him.
 
 ---
 
