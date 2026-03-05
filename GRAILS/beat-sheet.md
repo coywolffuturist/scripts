@@ -2,13 +2,16 @@
 *Wroom Pipeline × Zen Story Architect*
 *Status: Preliminary — populated from chronological details. Not yet approved beat by beat.*
 
+*Target runtime: ~100 pages*
+*Act One: pp. 1–30 | Act Two: pp. 30–80 | Act Three: pp. 80–100*
+
 ---
 
-## ACT ONE — Sequences 1 & 2 (pp. 1–37)
+## ACT ONE — Sequences 1 & 2 (pp. 1–30)
 
 ---
 
-### SEQUENCE 1 — First Fall (pp. 1–25)
+### SEQUENCE 1 — First Fall (pp. 1–15)
 
 ---
 
@@ -198,7 +201,7 @@ STRUCTURE CHECK:
 
 ---
 
-### SEQUENCE 2 — Distrust of New Connection (pp. 25–37)
+### SEQUENCE 2 — Distrust of New Connection (pp. 15–30)
 
 ---
 
@@ -295,11 +298,11 @@ STRUCTURE CHECK:
 
 ---
 
-## ACT TWO — Sequences 3–6 (pp. 37–90)
+## ACT TWO — Sequences 3–6 (pp. 30–80)
 
 ---
 
-### SEQUENCE 3 — Conflict with New Connection (pp. 37–50)
+### SEQUENCE 3 — Conflict with New Connection (pp. 30–42)
 
 ---
 
@@ -396,7 +399,7 @@ STRUCTURE CHECK:
 
 ---
 
-### SEQUENCE 4 — New Connection Grows (pp. 50–65)
+### SEQUENCE 4 — New Connection Grows (pp. 42–57)
 
 ---
 
@@ -493,7 +496,7 @@ STRUCTURE CHECK:
 
 ---
 
-### SEQUENCE 5 — New Connection Fails (pp. 65–75)
+### SEQUENCE 5 — New Connection Fails (pp. 57–68)
 
 ---
 
@@ -590,7 +593,7 @@ STRUCTURE CHECK:
 
 ---
 
-### SEQUENCE 6 — Sacrifice for True Change (pp. 75–90)
+### SEQUENCE 6 — Sacrifice for True Change (pp. 68–80)
 
 ---
 
@@ -656,11 +659,11 @@ STRUCTURE CHECK:
 
 ---
 
-## ACT THREE — Sequences 7 & 8 (pp. 90–120)
+## ACT THREE — Sequences 7 & 8 (pp. 80–100)
 
 ---
 
-### SEQUENCE 7 — Triumph via Connection (pp. 90–105)
+### SEQUENCE 7 — Triumph via Connection (pp. 80–92)
 
 ---
 
@@ -819,7 +822,7 @@ STRUCTURE CHECK:
 
 ---
 
-### SEQUENCE 8 — Denouement (pp. 105–120)
+### SEQUENCE 8 — Denouement (pp. 92–100)
 
 ---
 
