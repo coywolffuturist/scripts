@@ -15,34 +15,34 @@
 
 ---
 
-[SEQUENCE 1 : BEAT 1 — THE SANCTUARY]
+[SEQUENCE 1 : BEAT 1 — THE FIND]
 
 THE CONNECTOR: —
 
-LOCATION: INT. ZACH'S SHOP — DAY
+LOCATION: EXT. SUBURBAN GARAGE SALE — DAY / INT. KID'S CAR — DAY
 
-CHARACTERS: Zach
+CHARACTERS: Anonymous 17-year-old (no name needed)
 
-PLOT GOAL: Establish Zach's world and the threat to it
-CHARACTER GOAL: Maintain the temple; keep his father's legacy alive one more day
+PLOT GOAL: Introduce the MacGuffin and establish its world before we meet anyone
+CHARACTER GOAL: The kid wants to flip something for profit — he has no idea what he's found
 
-THE ACTION: Zach works alone in his shop — loupe around his neck, a vintage card under magnification, the smell of acid-free plastic and old cardboard. The strip mall outside is half-shuttered. He is the last store standing.
+THE ACTION: A 17-year-old bro moves through a forgettable suburban garage sale — folding tables, dusty junk, a retired couple who doesn't know what they have. He clocks a cardboard box. Pulls it out. 1986 Fleer. Sealed. Beat up, water-damaged at one corner, but sealed. His eyes change. He keeps his face blank, pays whatever they're asking, walks to his car. The second the door closes he pulls out his phone. Posts to TikTok: just the box, his hands, no words. Within sixty seconds — likes, DMs, the collector world erupting in his notifications.
 
-THE OPPOSITION: A rent notice on the counter. Two months left.
+THE OPPOSITION: The box is damaged. Authenticity is already a question before it's even a question.
 
 THE ZEN PIVOT:
-Hero: Deep in Ego — his identity is the shop, the shop is his father, the world outside doesn't exist
-Antagonist: Absent — but his influence (the influencer economy, the Toggification of the world) has already hollowed out the strip mall around Zach
-Sub-Protagonist: Absent
+Hero: Absent
+Antagonist: Absent
+Sub-Protagonist: Absent — this is prologue; the world introducing itself
 
-STAKES UPDATE: Zach has two months of rent left. Everything he is lives in this shop.
+STAKES UPDATE: The 1986 Fleer box is in the world. It has been seen. The clock is running, though no one knows it yet.
 
-ENTERTAINMENT FACTOR: Novelty (the world of sports memorabilia restoration), Meaning (a man out of time)
+ENTERTAINMENT FACTOR: Novelty (the world of sports memorabilia, the garage sale find, the TikTok eruption), Suspense (what happens to the box?)
 
 STRUCTURE CHECK:
-- Beginning: Zach at work, in his element
-- Middle: The rent notice — the world pressing in
-- End: He goes back to work. The world can wait.
+- Beginning: Kid at the garage sale, scanning
+- Middle: The find — the box, the recognition, the blank face, the price paid
+- End: In the car, TikTok posted, notifications flooding in. Title card: GRAILS
 
 ---
 
