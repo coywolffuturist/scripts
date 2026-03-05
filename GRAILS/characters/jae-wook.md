@@ -4,7 +4,7 @@
 
 ## The Logline of a Person
 
-> *"Jae-Wook is a cynic who wishes he wasn't. He'd be good if he believed goodness was still a viable option."*
+> *"He's a cynic who wishes he wasn't."*
 
 ---
 
