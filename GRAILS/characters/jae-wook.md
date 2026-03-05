@@ -49,14 +49,14 @@ TBD — will emerge from the beat sheet.
 | Component | Description |
 |-----------|-------------|
 | P — Protagonist | Jae-Wook, Koreatown gang lieutenant and architect of the heist against Togg's collection |
-| R — Reason | The Fallen Idealist. He didn't start cynical — he got there. His mother's death stripped away his faith that systems reward goodness, and he's been operating from that conclusion ever since. The audience recognizes him because they've had their own version of that moment — the event that proved the world doesn't work the way it was supposed to. |
-| I — Insecurity | He still wants to believe. That's the wound. The cynicism is armor over something that hasn't fully died. When he meets Zach — a man who has stayed honest in a world that punishes it — something uncomfortable stirs. He doesn't know what to do with a person like that. |
-| E — Emotion | Controlled, precise, reads rooms instantly. Warm with people he respects. Utterly cold toward people who treat objects — or other people — as disposable. He has a specific contempt for Togg that feels almost moral. It is moral. He just refuses to call it that. |
-| P — Problem | Executing a high-stakes heist on a heavily secured influencer compound without burning the community that shelters him. |
-| I — Intention | Rip Togg's collection — specifically items with cultural or historical weight that Togg bought as status objects and has never once thought about as artifacts. Return them to circulation. Keep what the crew needs to survive. |
-| O — Obstacle | Zach. An accidental participant who is too honest to be useful and too perceptive to be ignored. Jae-Wook planned for every variable except a man who actually understands what they're stealing. |
-| T — Tactics | Patience. Long setups. Infrastructure before action. He's been watching Togg for months. The doumis have been inside for weeks. He doesn't move until every contingency is mapped. |
-| S — Surprise | TBD — will emerge from the beat sheet. |
+| R — Reason | The Fallen Idealist — but with a specific texture. He's not evil; he's trying to be a bad guy with a clean conscience. Only steals from people who don't deserve what they have. Never hurts anyone who doesn't have it coming. The audience recognizes him because they've all made their own version of this compromise — the moral workaround you build when you've stopped believing in the rules. |
+| I — Insecurity | He needs to grieve his mother. The Asian machismo won't let him. So he turned the grief into a philosophy. The cynicism isn't intellectual — it's a grief management strategy. If the world was always corrupt, her death wasn't a senseless loss. It was just the world being the world. Easier to carry than the alternative. |
+| E — Emotion | Calm, natural alpha. Warm with everyone around him — servers, bouncers, the kid's name he actually remembered. He protects people the way he protects his wound: quietly, completely, without making it about himself. The community is where his ungrieved love goes. |
+| P — Problem | His brother just got convicted — partly on Elizabeth's expert testimony in a counterfeit football case. She's now Togg's VP of Authenticity. Jae-Wook was already circling Togg. Now he has a personal reason that won't let him be patient. |
+| I — Intention | Steal the 1986 Fleer box and sell it to the Saudis. And make Elizabeth feel what his brother felt — watched, exposed, taken from. The business intention is clean. The personal one is a liability he can't put down. |
+| O — Obstacle | The heist demands discipline and invisibility. The revenge demands that Elizabeth knows. He can't have both — and he's not ready to choose. |
+| T — Tactics | Execute the heist during the livestream — and use the chaos to expose Elizabeth publicly, at the exact moment her career was supposed to peak. One move. Two targets. Maximum damage. |
+| S — Surprise | The heist mastermind becomes Zach's unlikely mentor. The younger man who gave up on goodness helps the older one accept that people change — and that letting go isn't betrayal. He can see Zach's grief with perfect clarity. His own, not at all. |
 
 ---
 
