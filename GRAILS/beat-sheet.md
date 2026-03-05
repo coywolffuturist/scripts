@@ -15,34 +15,36 @@
 
 ---
 
-[SEQUENCE 1 : BEAT 1 — THE FIND]
+[SEQUENCE 1 : BEAT 1 — THE FIND / COLD OPEN MONTAGE]
 
 THE CONNECTOR: —
 
-LOCATION: EXT. SUBURBAN GARAGE SALE — DAY / INT. KID'S CAR — DAY
+LOCATION: EXT. SUBURBAN GARAGE SALE → INT. KEVIN'S CAR → INT./EXT. VARIOUS → INT. ZZ HERITAGE HOUSE — DAY
 
-CHARACTERS: Anonymous 17-year-old (no name needed)
+CHARACTERS: Anonymous 17-year-old, Kevin, Zach (end of montage)
 
-PLOT GOAL: Introduce the MacGuffin and establish its world before we meet anyone
-CHARACTER GOAL: The kid wants to flip something for profit — he has no idea what he's found
+PLOT GOAL: Establish the MacGuffin's journey and mythic status before we meet anyone properly; land us inside the Sanctuary with Kevin already waiting
+CHARACTER GOAL: Each person who touches the box wants something from it
 
-THE ACTION: A 17-year-old bro moves through a forgettable suburban garage sale — folding tables, dusty junk, a retired couple who doesn't know what they have. He clocks a cardboard box. Pulls it out. 1986 Fleer. Sealed. Beat up, water-damaged at one corner, but sealed. His eyes change. He keeps his face blank, pays whatever they're asking, walks to his car. The second the door closes he pulls out his phone. Posts to TikTok: just the box, his hands, no words. Within sixty seconds — likes, DMs, the collector world erupting in his notifications.
+THE ACTION: Fast-paced, kinetic. The 17-year-old at the garage sale — the find, the blank face, the price paid, the car door closes, TikTok posted, notifications erupting. Cut to Kevin — he sees the post, DMs immediately, drives to meet the kid, inspects the box with practiced eyes, pays cash. Cut to Kevin searching: the best restorer in LA, narrowing down, ZZ Heritage House. He walks in. Sets the box on Zach's counter. Zach picks it up. The montage lands — suddenly slow, reverent — on Zach's hands and the loupe.
 
-THE OPPOSITION: The box is damaged. Authenticity is already a question before it's even a question.
+Then the pull back: Kevin is sitting in a chair at the back of the shop, waiting. The three-generation family is at the counter with Zach — deep in the Griffey moment, the father's eyes misting, the grandfather pulled into a hug. Kevin checks his phone. Shifts in his seat. Checks again. The most important transaction of his life is being held up by an old man crying over a baseball card.
+
+THE OPPOSITION: The box is damaged — authenticity already a question. Kevin's impatience vs. Zach's total absorption in the Griffey moment.
 
 THE ZEN PIVOT:
-Hero: Absent
+Hero: Absent until the final beat — then pure connection to the object and the family
 Antagonist: Absent
-Sub-Protagonist: Absent — this is prologue; the world introducing itself
+Sub-Protagonist: Absent — prologue; but Kevin's impatience is the first contrast with Zach's code
 
-STAKES UPDATE: The 1986 Fleer box is in the world. It has been seen. The clock is running, though no one knows it yet.
+STAKES UPDATE: The box has arrived. Kevin is in the room. The world is about to change for Zach, though he doesn't know it yet.
 
-ENTERTAINMENT FACTOR: Novelty (the world of sports memorabilia, the garage sale find, the TikTok eruption), Suspense (what happens to the box?)
+ENTERTAINMENT FACTOR: Novelty (kinetic world-building, the box's journey), Suspense (who is this guy waiting?)
 
 STRUCTURE CHECK:
-- Beginning: Kid at the garage sale, scanning
-- Middle: The find — the box, the recognition, the blank face, the price paid
-- End: In the car, TikTok posted, notifications flooding in. Title card: GRAILS
+- Beginning: The garage sale — the find
+- Middle: The chain of hands — kid to Kevin to Zach's counter; the montage slows
+- End: Kevin waiting, impatient. Zach absorbed in the Griffey moment. Title card: GRAILS
 
 ---
 
