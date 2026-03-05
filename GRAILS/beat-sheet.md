@@ -84,34 +84,36 @@ STRUCTURE CHECK:
 
 ---
 
-[SEQUENCE 1 : BEAT 3 — KEVIN'S GHOST]
+[SEQUENCE 1 : BEAT 3 — THE COMMISSION]
 
 THE CONNECTOR: THEREFORE
 
-LOCATION: INT. ZACH'S SHOP — DAY
+LOCATION: INT. ZZ HERITAGE HOUSE — DAY
 
-CHARACTERS: Zach, JH's gang member
+CHARACTERS: Zach, Kevin
 
-PLOT GOAL: Introduce the Fleer box and the connection to Kevin's case
-CHARACTER GOAL: Zach wants to do the job right and get paid — nothing more
+PLOT GOAL: Establish the legitimate transaction that sets everything in motion
+CHARACTER GOAL: Kevin wants a "perfect restoration as a gift for his brother" (cover story — his real intent is to use it as a counterfeit); Zach wants to do the greatest work of his life
 
-THE ACTION: A Korean man walks in. He's checking on a refurbishment job — a 1986 Fleer box set Kevin left with Zach before the arrest. He's polite. He pays. He leaves.
+THE ACTION: The family gone, Kevin steps to the counter. Sets the box down. Zach picks it up — and transforms. He describes what's definitely inside: the Jordan rookie, the Ewing, the Bird-Magic, the Patrick Ewing XRC. His voice goes reverent. He's already somewhere else. He offers to sell them for Kevin if that's what he's after — he's seen the industry message board posts, he knows what this is worth. Kevin says no. He wants restoration. Perfect. Like new. It's for his brother. Zach says he'd normally do this for free — this is like being asked to touch up the Mona Lisa — but there are materials, sourcing, time. Kevin asks if $10k covers it. Zach's eyes practically fall out of his head. He says yes, but that's too much. Kevin: "$5k now, $5k when you finish. But it's gotta be so perfect it makes me cry like grandpa, okay?" Zach looks at him for a moment. Extends his hand.
 
-THE OPPOSITION: Zach clocks something. The guy is Korean. Kevin was Korean. Elizabeth testified at Kevin's trial. He says nothing.
+THE OPPOSITION: Zach's instinct to underprice himself — a lifetime habit he almost can't override
 
 THE ZEN PIVOT:
-Hero: Regression — suspicion, self-protection
-Antagonist: Absent (JH operating at a distance)
-Sub-Protagonist: Absent
+Hero: Toward Connection — the craft, the object, the man in front of him; he shakes the hand
+Sub-Protagonist (Kevin): Toward Connection on the surface — the gift story is warm and convincing; underneath, full Ego (the counterfeit scheme)
+Antagonist: Absent
 
-STAKES UPDATE: The Fleer box is in play. Zach has been paid. He's uneasy but says nothing.
+STAKES UPDATE: The commission is live. The box is in Zach's care. Kevin is running a counterfeit collectibles operation — robosigned Tom Brady footballs are his enterprise — and the Fleer box is his next play. Zach doesn't know any of this. We might.
 
-ENTERTAINMENT FACTOR: Suspense
+// NOTE: Kevin's "it's for my brother" is a lie. His real intent is to sell the restored box as a high-end counterfeit. The dramatic irony: he hired the one man in LA whose entire code is built around never passing restoration off as factory-original. The collision between Kevin's lie and Zach's integrity is the engine that starts everything.
+
+ENTERTAINMENT FACTOR: Novelty, Meaning (and dramatic irony on rewatch)
 
 STRUCTURE CHECK:
-- Beginning: Routine transaction
-- Middle: Zach's recognition — something doesn't add up
-- End: The man leaves. Zach is left alone with the box and his unease.
+- Beginning: Kevin steps to the counter; the box between them
+- Middle: Zach's excitement — the descriptions, the offer to sell, Kevin's refusal
+- End: The handshake. $5k changes hands. The Mona Lisa is in Zach's care.
 
 ---
 
