@@ -110,6 +110,9 @@ LOCATION: [INT./EXT. LOCATION - DAY/NIGHT]
 
 CHARACTERS: [All active characters]
 
+PLOT GOAL: [What must happen externally in this beat for the story to advance]
+CHARACTER GOAL: [What the POV character wants in this beat, driven by their Insecurity]
+
 THE ACTION: [Precise visual description. Cinematic verbs. External action.]
 
 THE OPPOSITION: [Counter-Move / Modifier Pressure / Environmental Block]
@@ -122,6 +125,11 @@ THE ZEN PIVOT:
 STAKES UPDATE: [New information revealed + cost of failure]
 
 ENTERTAINMENT FACTOR: [Novelty / Meaning / Suspense]
+
+STRUCTURE CHECK:
+- Beginning: [The setup — who, where, what they want]
+- Middle: [The complication — what gets in the way]
+- End: [The resolution — what changes]
 ```
 
 ---
@@ -134,6 +142,12 @@ ENTERTAINMENT FACTOR: [Novelty / Meaning / Suspense]
 - **Act Three** — header break
 
 No structural markup. No beat labels. Reads like a story, not a blueprint.
+
+**Structural Markers (Syd Field) — must be identifiable in the prose, even if unlabeled:**
+- **Plot Point 1** (~page 25) — The event that locks the hero into Act 2. No going back.
+- **Midpoint** (~page 55) — The false peak or false collapse. Stakes double.
+- **Plot Point 2** (~page 85) — The all-is-lost moment. The hero must act on their own, stripped of support.
+- **Pinch Points** — Act 2A midpoint and Act 2B midpoint: the antagonist force bears down, reminding the audience what's at stake.
 
 ---
 
@@ -173,6 +187,7 @@ No structural markup. No beat labels. Reads like a story, not a blueprint.
 ## Workflow Rules (Zen Story Architect Protocol)
 
 - **Single Question Rule** — One question at a time. No stacking.
+- **Save the Cat Protocol** — The protagonist's first sequence must contain a Save the Cat moment: a single action that costs them something small but reveals their fundamental decency. The audience must want them to win before the stakes escalate.
 - **South Park Logic Gate** — Every beat (except Beat 1) must connect via THEREFORE or BUT. AND THEN is forbidden.
 - **Two-Scene Threshold** — Any supporting character in more than 2 scenes = Sub-Protagonist. Full PRIEPIOTS required.
 - **Dopamine Constraint** — Every scene must deliver Novelty, Meaning, or Suspense. Scenes lacking all three = False Dopamine (Mu). Reject and revise.
