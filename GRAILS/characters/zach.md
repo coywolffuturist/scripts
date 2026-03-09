@@ -39,10 +39,16 @@ In the micro world — the underworld he's stumbled into — relationships are t
 The tension that defines him: in a world that monetizes everything instantly and an underworld that trusts nothing, Zach is the only person in either room who actually gives a damn about the thing in front of him. That quality is simultaneously his greatest weakness and the most dangerous thing about him.
 
 ## Hustle Style
+Zach doesn't hustle — he consecrates. Where other forgers treat replication as a technical problem, Zach treats it as a historical one. Getting the ink right isn't enough. Getting the paper stock, the print registration, the surface wear pattern, the exact oxidation profile of a 1986 Fleer Michael Jordan in a Houston collector's humid garage — that's the work. He researches the original print runs. He sources period-correct materials. He has spent three days on a single card, not because he had to, but because anything less would be an insult to the original.
 
+His counterfeits are, by any honest measure, more lovingly rendered than the legitimate market deserves. The irony is not lost on him and he doesn't discuss it.
+
+What makes him genuinely dangerous — to the people trying to authenticate against him, and eventually to the operation itself — is that his standard has no ceiling. He is constitutionally incapable of doing this halfway. A forger who cuts corners eventually gets caught. Zach's problem is the opposite: he puts so much of himself into the work that the pieces start to feel like originals to him too. Each fake carries its own provenance now — his hours, his obsession, his grief for the real thing. At some point the line between restoration and creation stops being a line.
+
+In the underworld, his reputation travels before him in whispers: nobody knows his name, but people have seen the work. The work speaks in a frequency that only true believers can hear. Which means his only real clients are the ones who know exactly what they're looking at — and that cuts both ways.
 
 ## The Question
-
+Can Zach stay true to the legacy his father built — the reverence, the craft, the belief that these objects mean something — while becoming the world's most exceptional sports collectibles forger?
 
 ## PRIEPIOTS
 
