@@ -39,7 +39,7 @@ Over time, he puts so much of himself into the work that the pieces start to fee
 In the underworld, his reputation travels before him in whispers: nobody knows his name, but his work speaks in a frequency only true aficionados can hear. Which means only his real clients know exactly what they're looking at — and that cuts both ways.
 
 ## The Question
-Can Zach stay true to the legacy his father built — the reverence, the craft, the belief that these objects mean something — while becoming the world's most exceptional sports collectibles forger?
+Can Zach stay true to the legacy his father built — the reverence, the craft, the belief that memorabilia carries profound meaning — while becoming the world's most exceptional sports collectibles forger?
 
 ## PRIEPIOTS
 
