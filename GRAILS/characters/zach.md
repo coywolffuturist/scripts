@@ -18,6 +18,14 @@ His "Intellectual Arrogance" is actually an unshakable faith in the truth. He be
 
 ---
 
+## Life Goal
+Keep the shop alive. Buy enough time to prove that what he does — what he *is* — still matters in a world that's moved on.
+
+## Theme Goal
+To be seen. Not famous, not wealthy — *seen*. To have someone recognize that the truth he's devoted his life to protecting has real weight, real consequence. That sentiment isn't a losing bet.
+
+---
+
 ## PRIEPIOTS Table
 
 | Component | Description |

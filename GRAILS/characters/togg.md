@@ -2,6 +2,13 @@
 
 ---
 
+## Life Goal
+TBD
+
+## Theme Goal
+TBD
+
+
 ## The Vibe
 High-frequency, high-ego, hyper-saturated. He doesn't walk into a room; he "renders" into it. He believes "Authenticity" is just a marketing term and that enough "W" spam in a chat room can rewrite reality.
 
@@ -15,6 +22,13 @@ Treats every space as his private Watch-to-Earn theater. Doesn't look at people;
 To Togg, everything — and everyone — is a collectible. He doesn't cherish artifacts; he cherishes the clout they project. He views Elizabeth as an Exotic Conquest — a high-IQ, high-beauty asset that validates him as a "Serious Person." A "Mint 10" card: a prestige item to be envied, not a partner to be heard.
 
 ---
+
+## Life Goal
+TBD
+
+## Theme Goal
+TBD
+
 
 ## PRIEPIOTS Table
 
@@ -31,6 +45,13 @@ To Togg, everything — and everyone — is a collectible. He doesn't cherish ar
 | S — Surprise | TBD — will emerge from the beat sheet. |
 
 ---
+
+## Life Goal
+TBD
+
+## Theme Goal
+TBD
+
 
 ## Antagonist Additions
 

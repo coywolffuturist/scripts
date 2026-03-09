@@ -2,6 +2,13 @@
 
 ---
 
+## Life Goal
+TBD
+
+## Theme Goal
+TBD
+
+
 ## The Vibe
 The Adult in the Room who has been turned into a Prestige Asset. Sophisticated and precise, carrying the weariness of someone who traded her soul for a stability that turned out to be a gilded cage.
 
@@ -20,6 +27,13 @@ Like so many of their generation, she and Zach waited at a red light that never 
 
 ---
 
+## Life Goal
+TBD
+
+## Theme Goal
+TBD
+
+
 ## PRIEPIOTS Table
 
 | Component | Description |
@@ -35,6 +49,13 @@ Like so many of their generation, she and Zach waited at a red light that never 
 | S — Surprise | TBD — will emerge from the beat sheet. |
 
 ---
+
+## Life Goal
+TBD
+
+## Theme Goal
+TBD
+
 
 ## Sub-Protagonist Arc Note
 Her arc progresses toward Connection without exceeding Zach's dopamine yield. Her Connection moment: the heist forces her hand. She stops enduring and acts. The loupe comes out of the pocket.
