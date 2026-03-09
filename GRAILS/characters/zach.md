@@ -30,7 +30,13 @@ What he doesn't anticipate is what happens to the people around him. Criminals, 
 By the end, Zach is co-running a criminal operation with the soul of a museum. He's the unlikely moral center of a con — not because he reformed the con, but because he refused to let the con reform him.
 
 ## Identity Struggle
+Zach's deepest conflict isn't with the criminals or the philistines — it's with velocity itself. The world has accelerated past the speed at which meaning can form. A rookie card goes viral, gets graded, gets flipped, gets forgotten inside a news cycle. An artifact that took a player a career to earn gets reduced to a thirty-second unboxing. Zach moves at the speed of care — slow, deliberate, attentive to surface and history and weight — and that speed is now a liability in both worlds he inhabits.
 
+In the macro world, social media has replaced provenance with attention. The story of an object matters less than whether the object photographs well. Zach can hold a card and tell you the exact game, the weather, the at-bat — and none of that adds a dollar to its eBay listing. He is a keeper of slow knowledge in a fast-knowledge economy, and the market has rendered his fluency decorative.
+
+In the micro world — the underworld he's stumbled into — relationships are transactional by design. Trust is provisional. Loyalty is leverage. People move fast because moving slow gets you caught or exploited. And yet Zach keeps showing up like a man who intends to stay. He learns names. He asks follow-up questions. He treats a job like a relationship rather than a transaction. It unnerves people. Then it disarms them. Then, quietly, it changes them.
+
+The tension that defines him: in a world that monetizes everything instantly and an underworld that trusts nothing, Zach is the only person in either room who actually gives a damn about the thing in front of him. That quality is simultaneously his greatest weakness and the most dangerous thing about him.
 
 ## Hustle Style
 
