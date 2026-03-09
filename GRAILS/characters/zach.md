@@ -29,22 +29,14 @@ Over time, Zach's earnest belief in his craft's higher calling disarms hardened 
 Eventually, Zach is co-running a criminal operation with the soul of a museum. He's the unlikely moral center&nbsp;of a cadre of elite con artists — not because he reformed the criminals, but because together they're reforming a world back towards rewarding authenticity.
 
 ## Identity Struggle
-Zach's deepest conflict isn't with the criminals or the philistines — it's with velocity itself. The world has accelerated past the speed at which meaning can form. A rookie card goes viral, gets graded, gets flipped, gets forgotten inside a news cycle. An artifact that took a player a career to earn gets reduced to a thirty-second unboxing. Zach moves at the speed of care — slow, deliberate, attentive to surface and history and weight — and that speed is now a liability in both worlds he inhabits.
-
-In the macro world, social media has replaced provenance with attention. The story of an object matters less than whether the object photographs well. Zach can hold a card and tell you the exact game, the weather, the at-bat — and none of that adds a dollar to its eBay listing. He is a keeper of slow knowledge in a fast-knowledge economy, and the market has rendered his fluency decorative.
-
-In the micro world — the underworld he's stumbled into — relationships are transactional by design. Trust is provisional. Loyalty is leverage. People move fast because moving slow gets you caught or exploited. And yet Zach keeps showing up like a man who intends to stay. He learns names. He asks follow-up questions. He treats a job like a relationship rather than a transaction. It unnerves people. Then it disarms them. Then, quietly, it changes them.
-
-The tension that defines him: in a world that monetizes everything instantly and an underworld that trusts nothing, Zach is the only person in either room who actually gives a damn about the thing in front of him. That quality is simultaneously his greatest weakness and the most dangerous thing about him.
+Zach's deepest conflict isn't with criminals or philistines — it's with velocity itself. The world has accelerated past the speed at which meaning can form. A rookie card goes viral, gets graded, gets flipped, gets forgotten inside a news cycle. An artifact that took a player a career to earn gets reduced to a thirty-second unboxing. Zach moves at the speed of deliberate care, meticulously attentive to surface and history and weight... and that's a liability in both worlds he inhabits.
 
 ## Hustle Style
-Zach doesn't hustle — he consecrates. Where other forgers treat replication as a technical problem, Zach treats it as a historical one. Getting the ink right isn't enough. Getting the paper stock, the print registration, the surface wear pattern, the exact oxidation profile of a 1986 Fleer Michael Jordan in a Houston collector's humid garage — that's the work. He researches the original print runs. He sources period-correct materials. He has spent three days on a single card, not because he had to, but because anything less would be an insult to the original.
+Zach doesn't hustle, he consecrates. Where other forgers treat replication as a technical problem, Zach treats it as a historical one. Getting the ink right isn't enough. Getting the exact oxidation profile of a 1986 Fleer Michael Jordan in a Houston collector's humid garage — that's the work. He spends three days on a single card, not because he has to, but because anything less would be an insult to the original.
 
-His counterfeits are, by any honest measure, more lovingly rendered than the legitimate market deserves. The irony is not lost on him and he doesn't discuss it.
+Over time, he puts so much of himself into the work that the pieces start to feel like originals to him too. Each fake carries its own provenance — his hours, his obsession, his grief for the real thing. At some point the line between restoration and creation stops being a line.
 
-What makes him genuinely dangerous — to the people trying to authenticate against him, and eventually to the operation itself — is that his standard has no ceiling. He is constitutionally incapable of doing this halfway. A forger who cuts corners eventually gets caught. Zach's problem is the opposite: he puts so much of himself into the work that the pieces start to feel like originals to him too. Each fake carries its own provenance now — his hours, his obsession, his grief for the real thing. At some point the line between restoration and creation stops being a line.
-
-In the underworld, his reputation travels before him in whispers: nobody knows his name, but people have seen the work. The work speaks in a frequency that only true believers can hear. Which means his only real clients are the ones who know exactly what they're looking at — and that cuts both ways.
+In the underworld, his reputation travels before him in whispers: nobody knows his name, but his work speaks in a frequency only true aficionados can hear. Which means only his real clients know exactly what they're looking at — and that cuts both ways.
 
 ## The Question
 Can Zach stay true to the legacy his father built — the reverence, the craft, the belief that these objects mean something — while becoming the world's most exceptional sports collectibles forger?
