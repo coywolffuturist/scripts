@@ -3,24 +3,16 @@
 ---
 
 ## Life Goal
-TBD
+Get out. Enough money from the heist to build something that doesn't depend on other people deciding she's worth investing in.
 
 ## Theme Goal
-TBD
-
+To be seen for her mind, not her beauty. To be in a room where her intelligence is the first thing anyone clocks — not the last.
 
 ## The Logline of a Person
 
 > *"She can run circles around fools. The fools never notice."*
 
 ---
-
-## Life Goal
-TBD
-
-## Theme Goal
-TBD
-
 
 ## The Vibe
 
@@ -29,13 +21,6 @@ Smart and overlooked because she's beautiful. The strategic mastermind of the do
 She is Jae-Wook's partner. In work and in life.
 
 ---
-
-## Life Goal
-TBD
-
-## Theme Goal
-TBD
-
 
 ## The Context That Made Her
 
@@ -47,25 +32,11 @@ The heist isn't a moral failure. It's the only rational play left on the board.
 
 ---
 
-## Life Goal
-TBD
-
-## Theme Goal
-TBD
-
-
 ## The Dynamic with Hye-Jin
 
 She looks out for Hye-Jin like a big sister. Hye-Jin's empathy-bombing is a field liability — she locks onto marks and starts *feeling* for them, which threatens the operation. Deja reads the strategic picture and pulls her back. She loves Hye-Jin's gift. She also knows exactly when it becomes a vulnerability.
 
 ---
-
-## Life Goal
-TBD
-
-## Theme Goal
-TBD
-
 
 ## PRIEPIOTS Table
 
@@ -82,13 +53,6 @@ TBD
 | S — Surprise | TBD — will emerge from the beat sheet. |
 
 ---
-
-## Life Goal
-TBD
-
-## Theme Goal
-TBD
-
 
 ## Relationship to the Theme
 

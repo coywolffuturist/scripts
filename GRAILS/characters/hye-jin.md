@@ -3,24 +3,16 @@
 ---
 
 ## Life Goal
-TBD
+Security — her own apartment, her debt paid off, a dog she can adopt. Some semblance of the settled life that feels permanently out of reach.
 
 ## Theme Goal
-TBD
-
+To be told that the way she sees people is a form of genius, not a deficit.
 
 ## The Logline of a Person
 
 > *"The family sees deficit. The audience sees superpower."*
 
 ---
-
-## Life Goal
-TBD
-
-## Theme Goal
-TBD
-
 
 ## The Vibe
 
@@ -29,13 +21,6 @@ Smart and overlooked because she's beautiful. An "Asian Baby Girl" — rave scen
 The obvious suspect. Which means she's not the one pulling the strings.
 
 ---
-
-## Life Goal
-TBD
-
-## Theme Goal
-TBD
-
 
 ## Family Relationships
 
@@ -46,25 +31,11 @@ TBD
 
 ---
 
-## Life Goal
-TBD
-
-## Theme Goal
-TBD
-
-
 ## The Dynamic with Deja
 
 Deja looks out for her like a big sister. Hye-Jin's empathy-bombing is a vulnerability in the field — she locks onto a target and starts *feeling* for them. Deja reads the strategic picture and pulls her back before she compromises the operation. Together they're complete: emotional intelligence plus strategic intelligence. Each other's blind spot coverage.
 
 ---
-
-## Life Goal
-TBD
-
-## Theme Goal
-TBD
-
 
 ## PRIEPIOTS Table
 
@@ -81,13 +52,6 @@ TBD
 | S — Surprise | TBD — will emerge from the beat sheet. |
 
 ---
-
-## Life Goal
-TBD
-
-## Theme Goal
-TBD
-
 
 ## Relationship to the Theme
 

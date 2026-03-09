@@ -2,6 +2,12 @@
 
 ---
 
+## Life Goal
+Execute the perfect audit — use the Spectral Guard to prove that history has a physical, unassailable truth that even hype cannot rewrite.
+
+## Theme Goal
+To stop being a prestige asset and be a partner. To be valued for her expertise, not her packaging.
+
 ## The Vibe
 Elizabeth is the "Adult in the Room" who has been turned into a "Prestige Asset." She is sophisticated and precise, but she carries the weariness of someone who traded her soul for a stability that turned out to be a gilded cage.
 

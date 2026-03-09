@@ -3,24 +3,16 @@
 ---
 
 ## Life Goal
-TBD
+Execute the perfect heist — steal the 1986 Fleer box, sell it to the Saudis, and make Elizabeth feel what Kevin felt.
 
 ## Theme Goal
-TBD
-
+To grieve his mother. The cynicism is a grief management strategy. He stopped believing goodness was survivable so her death would make sense. He needs to find out he was wrong.
 
 ## The Logline of a Person
 
 > *"He's a cynic who wishes he wasn't."*
 
 ---
-
-## Life Goal
-TBD
-
-## Theme Goal
-TBD
-
 
 ## The Vibe
 
@@ -30,13 +22,6 @@ The name says it all: *Jae* (talented) + *Wook* (hook/snare). There is a trap in
 
 ---
 
-## Life Goal
-TBD
-
-## Theme Goal
-TBD
-
-
 ## Name as Identity
 
 Jae-Wook goes by his Korean name. After his mother died — worn down by a system that couldn't be bothered to protect her — he rejected his American name as an act of grief and defiance. The system failed her. He won't wear its clothes.
@@ -44,13 +29,6 @@ Jae-Wook goes by his Korean name. After his mother died — worn down by a syste
 His step-brother goes by **Kevin**. Fully assimilated. Invisible in America. Which is exactly what the system wanted from him — and exactly what it still couldn't protect him from.
 
 ---
-
-## Life Goal
-TBD
-
-## Theme Goal
-TBD
-
 
 ## The Backstory That Made Him
 
@@ -66,13 +44,6 @@ He didn't stop wanting to be good. He stopped believing it was survivable.
 
 ---
 
-## Life Goal
-TBD
-
-## Theme Goal
-TBD
-
-
 ## The Operation
 
 Two doumis on the inside — Hye-Jin and Deja — planted in Togg's retinue after a Koreatown karaoke party. Togg assumes they're decorative. They are clocking his every move. This is the Exploit in reverse: Togg's prestige philosophy — his conviction that beautiful women are props, not actors — is the exact blindspot that gets him.
@@ -81,38 +52,17 @@ Jae-Wook designed it that way.
 
 ---
 
-## Life Goal
-TBD
-
-## Theme Goal
-TBD
-
-
 ## Leadership Style
 
 Deeply meritocratic — you show you're worthwhile and he treats you to the level of your worth. He recognizes that Hye-Jin and Deja see things he doesn't, and he relies on it rather than resenting it. Like Bodhi in *Point Break*, he's integrated his divine feminine to a degree that makes him magnetic and secure in his power. His authority doesn't need to dominate. It draws.
 
 ---
 
-## Life Goal
-TBD
-
-## Theme Goal
-TBD
-
-
 ## The Tell
 
 TBD — will emerge from the beat sheet.
 
 ---
-
-## Life Goal
-TBD
-
-## Theme Goal
-TBD
-
 
 ## PRIEPIOTS Table
 
@@ -129,13 +79,6 @@ TBD
 | S — Surprise | The heist mastermind becomes Zach's unlikely mentor. The younger man who gave up on goodness helps the older one accept that people change — and that letting go isn't betrayal. He can see Zach's grief with perfect clarity. His own, not at all. |
 
 ---
-
-## Life Goal
-TBD
-
-## Theme Goal
-TBD
-
 
 ## Relationship to Zach
 
