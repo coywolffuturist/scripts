@@ -15,7 +15,15 @@ Puerto Rico is the second address, with a mansion whose interiors are a one-to-o
 To Togg, everything — and everyone — is a collectible. He doesn't cherish artifacts, he strategically leverages the clout they project. He views Elizabeth as a high-social capital asset that validates his new metanarrative as a "Serious Collector." For him, she's like a "Mint 10" card&nbsp; -- a prestige item to be envied, not a partner to be heard.
 
 ## Backstory
+Togg grew up in a Calabasas McMansion where appearances were the primary currency. His father was a tech marketing VP who trailblazed digitized attention manipulation. His mother was a fitness model who drilled into him if you're not a brand you're nobody. Together they raised a son tailor-made to push dopamine through screens.
 
+Togg's childhood ADHD was so severe that school felt like static, a meaningless clash with his innate frequency. Then social media arrived and tuned the world into his wavelength. On a lark, Togg spent a weekend with his bros making prank videos around Venice Beach, goofing on tourists for likes.&nbsp;When his vids outperformed his classmates 10x he realized the shock of a lifetime: he was finally good for something.
+
+Vance found him before the algorithm did. With his managerial Colonel Tom Parker instinct for raw talent, Vance immediately recognized what Togg was: his golden boy. Charismatic, reckless, and constitutionally incapable of embarrassment, Togg didn't need to be told to perform because he didn't know how to stop. Vance groomed him, packaged him, and pimped him out to brand deals and collabs and controversies calibrated to keep him in the frame. It worked. A decade and a half later, Gregg Togg is mentioned in the same breath as Logan Paul, IShowSpeed, and MrBeast.
+
+The difference nobody names out loud: he doesn't seem to enjoy any of it. Not genuinely. The others have moments — real laughs, real surprise, real joy that bleeds through sheeny production. Togg performs enjoyment the way he performs everything else. The line between what is real and what is staged was lost five years ago, increasingly replaced by the premature gray in his beard, just like his father's.
+
+Togg can feel the algorithm's youth bias like an animal spirit baked into his bones. After all, he spent fifteen years building the noise over signal attention economy that rewards novelty above everything. The spotlight is starting to drift toward younger faces and a culture he doesn't understand. The meaningless static has returned with force.
 
 ## Show Journey
 literally is one — the cameras are always positioned, the lighting is always dialed, and the line between living and performing dissolved so long ago that Togg couldn't find it if he tried.
