@@ -3,7 +3,7 @@
 ## The Vibe
 A rising lieutenant in a Koreatown gang who masterminds the heist, he's a world-weary cynic who wishes he wasn't. JW retains his personal dignity by hewing to a noble code — he only criminally exploits bad actors who he gave an opportunity to be good.
 
-Across Koreatown he's well respected for giving back, supporting local school fundraising drives, community gardens, even assisting the police neighborhood watch groups. Yet he associates and operates with genuinely bad people. He is one of them. He knows this.
+Across Koreatown he's well respected for giving back, supporting local school fundraising drives, community gardens, even assisting the police neighborhood watch groups. Yet he associates and operates with people who hurt people. He is one of them. He's made his peace with this as a protector of those who couldn't otherwise protect themselves.
 
 ## Name as Identity
 To those fluent in Hangugeo, his name says it all: Jae (talented) + Wook (hook). His skill baits you in, his charm hides the hook, and before you know it, you're snared.&nbsp;
@@ -15,35 +15,31 @@ Jae Wook was pre-med at USC, on track to become a pediatric surgeon, following i
 
 Then COVID hit. He watched with grim horror as his mother diligently clocked in every day, back to back shifts, from the first wave when nobody had PPE, through the long slog when the hospitals were overwhelmed and the ICUs never emptied. She believed she was essential and would be treated as such.
 
-Then she got sick. Jae Wook watched the same hospital where she saved lives write off hers as low probability of recovery. She died, a data entry fallen on the wrong side of triage. Not a hero. A discarded immigrant.
+She wasn't. When she finally came down with Covid, Jae Wook watched the same hospital where she saved lives write off hers as low probability of recovery. She died on a cot in the hallway, a data entry fallen on the wrong side of triage. Not an essential worker hero who went out on her shield. A discarded first-generation immigrant.
 
 Jae-Wook snapped. If "American goodness" doesn't protect you because the rules only apply to those who believe in them, not the people who write them,&nbsp;then the only honest move is to break them.
 
-He didn't stop wanting to be good. He stopped believing idealism could survive.
+JW didn't stop wanting to help people. He stopped believing idealism was the way to achieve it. Instead of continuing to follow in his mother's footsteps, he forked paths towards his Koreatown kingpin uncle to follow in his Gucci loafers'. JW's rapid ascension through the ranks wasn't due to nepotism. It's what happens when a 523 MCAT score turns to a life of crime.
 
-At the beginning of our story, his brother Kevin gets shipped off to jail for selling autosigned autographed baseballs as real. When Togg leverages the verdict as a media stunt to boost his credibility in the collector social media circuit Jae-Wook takes offense. But he doesn't fly off the handle. He begins plotting to surgically dismantle Togg's empire piece by piece.
+At the beginning of our story, JW's brother Kevin gets shipped off to jail for selling autosigned autographed baseballs as authentic. Togg livestreams Kevin's guilty verdict from inside the courthouse as a media stunt to boost his credibility in the collector social media circuit. Jae-Wook clocks it, but he doesn't fly off the handle. He begins plotting to surgically dismantle Togg's entire life piece by piece.
 
 ## The Operation
-Two doumis on the inside — Hye-Jin and Deja — planted in Togg's retinue after a Koreatown karaoke party. Togg assumes they're decorative. They are clocking his every move. This is the Exploit in reverse: Togg's prestige philosophy — his conviction that beautiful women are props, not actors — is the exact blindspot that gets him.
-
-Jae-Wook designed it that way.
+Jae-Wook has two atmosphere models planted on the inside of Togg's livestream production circuit, Hye-Jin and Deja. Togg assumes they're decorative eye candy, when in fact they are clocking his every move. Togg's worldview where beautiful women are props, not actors, provides the exact blindspot that gets him.
 
 ## Leadership Style
-Deeply meritocratic — you show you're worthwhile and he treats you to the level of your worth. He recognizes that Hye-Jin and Deja see things he doesn't, and he relies on it rather than resenting it. Like Bodhi in Point Break, he's integrated his divine feminine to a degree that makes him magnetic and secure in his power. His authority doesn't need to dominate. It draws.
+Like his uncle, JW is deeply meritocratic. He treats you to the level of your proven worth. That's why Deja and Hye-Jin are treated as equal partners, not subservient. He recognizes they see things he doesn't and he relies on it rather than resenting it. Secure in his manhood, his inborn authority doesn't need to dominate. It magnetizes.
 
 ## Relationship to Zach
-Zach is the thing Jae-Wook doesn't have a file for. A man who stayed honest — not strategically, not because he hasn't been tested, but because he actually believes in the objects and what they mean. Jae-Wook steals the same things Zach restores. They care about authenticity for the same reasons. They arrived at completely different conclusions about what to do with that knowledge.
-
-This is the film's central tension underneath the heist: two men who understand value in a world that doesn't, trying to figure out if they're enemies.
+Zach is the thing Jae-Wook doesn't have a play for - an honest idealist. They both care deeply about the authenticity of objects, but Jae-Wook steals what Zach lovingly restores. Beneath every heist the tension looms -- whose value system will prevail?
 
 ## Visual Fingerprint
-Jae-Wook wears LA Dodgers caps — always, but never in the standard blue. Black, cream, olive, stone. Paired with Brooks Brothers slacks and Loro Piana shirts, tasteful gold or platinum at the wrist and neck, nothing loud. Take off the hat and the jewelry and he passes for a banker from the Hamptons. That's the point. The gang affiliation is a single, deliberate signal in an otherwise flawless cover story. He chose the cap the same way he chose the name — one thing that won't assimilate, surrounded by everything that will.
+Jae-Wook wears LA Dodgers caps — always, but never in the standard blue. Black, cream, olive, stone. Paired with Brooks Brothers slacks and Loro Piana shirts, tasteful gold or platinum at the wrist and neck, nothing loud. Take off the hat and the jewelry and he passes for a banker from the Hamptons. That's the point. The sartorial edge is a single, deliberate signal that's he's all business and you better come correct on yours.
 
 ## Hustle Style
-Jae-Wook's method is simple and merciless: find the most cynically accurate weak point and apply maximum pressure there. Not the obvious weakness — the true one. The man struggling with his wife gets a third party, a norebang, a doumi on hidden camera. The gambler gets buried with a local bookie. The woman with insecurity about her looks gets Korean spa cosmetics laced with peptides, and then he controls the flow. He doesn't invent the vulnerability. He just refuses to look away from it the way polite society does. In this sense he's Togg's mirror — both men weaponize the gap between what people pretend to be and what they actually are. The difference is that Jae-Wook's targets deserve it, his methods don't require self-deception, and somewhere underneath the whole operation he still wants to live in a world where none of this is necessary. Togg has no such burden. That's what makes Jae-Wook more dangerous — and, ultimately, more reachable.
+Jae-Wook's method is simple and merciless: find your opponent's most cynically accurate weak point and apply maximum pressure. The man struggling with his wife gets caught with a karaoke parlor doumi on hidden camera. The gambler gets buried with a local bookie. The woman insecure over her aging gets Korean spa cosmetics laced with peptides and he controls the flow. Jae-Wook makes sure his targets deserve it, because he knows his methods&nbsp;are evil and he still wants to live in a world where someday none of this is necessary. But he doesn't see that world arriving any day soon.
 
 ## The Question
-Can Jae-Wook turn his gamesmanship inward? He can read anyone's weakness with surgical clarity — the marriage fracture, the gambling itch, the vanity that wants to be flattered. He has never once applied that same precision to himself. Michael Jordan didn't become a champion until he stopped being the best player on the court and started being the best player for the court. Jae-Wook is the smartest operator in every room he enters. The question the film asks is whether he can aim that intelligence at his own blind spots — the grief he philosophized away, the revenge he can't put down, the ego that needs Elizabeth to know — and master the game within the game. Not just run the con. Become the kind of man his crew would die for, and his community could actually build on.
+Can Jae-Wook turn his surgical eye on himself to&nbsp;heal into the kind of man his community can securely build on?
 
 ## PRIEPIOTS
 
