@@ -2,12 +2,6 @@
 
 ---
 
-## Life Goal
-Security — her own apartment, her debt paid off, a dog she can adopt. Some semblance of the settled life that feels permanently out of reach.
-
-## Theme Goal
-To be told that the way she sees people is a form of genius, not a deficit.
-
 ## The Logline of a Person
 
 > *"The family sees deficit. The audience sees superpower."*
